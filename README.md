@@ -3,8 +3,9 @@
 ## 🌟 About Me
 DevOps Engineer with 2 years of experience in automation and optimization. Worked on many projects and also a Corporate Trainer specializing in DevOps tools and practices.
 ---
-## 🛠️ Skills and Tools
 
+## 🛠️ Skills and Tools
+---
 ### 💻 Programming & Scripting Languages
 - Java ☕
 - Python 🐍
@@ -42,8 +43,7 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
 - Terraform 🌍
 - Nginx 🌐
 - Apache HTTP Server 📡
-- Maven
-- 
+- Apache Maven
 
 <!-- ## 🎓 Certifications
 - AWS Certified Solutions Architect – Associate 🏅
