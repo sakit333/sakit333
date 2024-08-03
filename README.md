@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Akshay Kumar S
 ---
 ## 🌟 About Me
-I am a dedicated DevOps Engineer with 2 years of hands-on experience in automating and optimizing the software development lifecycle. My expertise includes working with a wide range of DevOps tools and technologies to streamline processes, enhance productivity, and ensure seamless deployments. Over the past 2 years, I have also served as a Corporate Trainer, specializing in DevOps methodologies and tools. My role as a trainer involves designing and delivering comprehensive training programs to help teams and individuals master DevOps practices and technologies.
+DevOps Engineer with 2 years of experience in automation and optimization. Worked on many projects and also a Corporate Trainer specializing in DevOps tools and practices.
 ---
 ## 🛠️ Skills and Tools
 
 ### 💻 Programming & Scripting Languages
+- Java ☕
 - Python 🐍
 - Shell/Bash Scripting 💻
-- Java ☕
 
 ### 📦 Containerization & Orchestration
 - Docker 🐳
@@ -42,6 +42,8 @@ I am a dedicated DevOps Engineer with 2 years of hands-on experience in automati
 - Terraform 🌍
 - Nginx 🌐
 - Apache HTTP Server 📡
+- Maven
+- 
 
 <!-- ## 🎓 Certifications
 - AWS Certified Solutions Architect – Associate 🏅
