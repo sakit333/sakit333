@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Akshay Kumar S
-
+---
 ## 🌟 About Me
-I am a dedicated DevOps Engineer with 2 years of hands-on experience in automating and optimizing the software development lifecycle. My expertise lies in working with various DevOps tools and technologies to streamline processes, enhance productivity, and ensure seamless deployments.
-
+I am a dedicated DevOps Engineer with 2 years of hands-on experience in automating and optimizing the software development lifecycle. My expertise includes working with a wide range of DevOps tools and technologies to streamline processes, enhance productivity, and ensure seamless deployments. Over the past 2 years, I have also served as a Corporate Trainer, specializing in DevOps methodologies and tools. My role as a trainer involves designing and delivering comprehensive training programs to help teams and individuals master DevOps practices and technologies.
+---
 ## 🛠️ Skills and Tools
 
 ### 💻 Programming & Scripting Languages
@@ -57,9 +57,9 @@ I am a dedicated DevOps Engineer with 2 years of hands-on experience in automati
 - Migrated on-premise infrastructure to AWS using Terraform and Ansible, achieving 40% cost savings.
 - Established automated backup and disaster recovery plans to ensure business continuity.
 
-### 3. **Centralized Logging and Monitoring System**
+<!-- ### 3. **Centralized Logging and Monitoring System**
 - Set up an ELK stack to centralize logs from multiple microservices, enhancing troubleshooting and performance monitoring.
-- Integrated Grafana with Prometheus for real-time system monitoring and alerting.
+- Integrated Grafana with Prometheus for real-time system monitoring and alerting. -->
 
 ## 📈 GitHub Stats
 ![Sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical)
@@ -69,8 +69,6 @@ I am a dedicated DevOps Engineer with 2 years of hands-on experience in automati
 
 ## 🏆 Accomplishments
 - Successfully reduced deployment time by 30% through automation.
-- Achieved 99.99% system uptime through proactive monitoring and maintenance.
-- Led a team of 5 engineers in a major infrastructure migration project.
 - Conducted corporate training sessions for teams on DevOps practices, enhancing their skills and knowledge.
 
 <!-- ## 💬 Testimonials
@@ -80,8 +78,8 @@ I am a dedicated DevOps Engineer with 2 years of hands-on experience in automati
 -->
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sakit333) 🔗
-- [Twitter](https://twitter.com/sakit333) 🐦
+- [LinkedIn](https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🔗
+- [Twitter](https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08) 🐦
 - [Email](mailto:sak528264@gmail.com.com) 📧
 
 ## 📫 How to Reach Me
