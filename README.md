@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Akshay Kumar S
 ---
 ## 🌟 About Me
-DevOps Engineer with 2 years of experience in automation and optimization. Worked on many projects and also a Corporate Trainer specializing in DevOps tools and practices.
+**DevOps Engineer with 2 years of experience in automation and optimization. Worked on many projects and also a Corporate Trainer specializing in DevOps tools and practices.**
 ---
 
 ## 🛠️ Skills and Tools
@@ -39,10 +39,12 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
 - HashiCorp Vault 🔐
 - SonarQube 🛡️
 
+## Web Servers
+- Nginx 🌐
+- Apache Tomcat 📡
+
 ### 🛠️ Other Tools
 - Terraform 🌍
-- Nginx 🌐
-- Apache HTTP Server 📡
 - Apache Maven
 
 <!-- ## 🎓 Certifications
