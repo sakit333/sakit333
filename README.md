@@ -50,8 +50,10 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
 - Nginx 🌐
 - Apache Tomcat 📡
 
-### 🛠️ Other Tools
+### 🛠️ Infrastructure as Code
 - Terraform 🌍
+
+### 🛠️ Build Management Tool
 - Apache Maven
 
 <!-- ## 🎓 Certifications
