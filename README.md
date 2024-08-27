@@ -38,6 +38,13 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
 ### 🛡️ Security & Compliance
 - HashiCorp Vault 🔐
 - SonarQube 🛡️
+- Trivy 🔍
+
+### 📦 Artifact Storage
+- Nexus 📦
+
+### 📡 Messaging
+- Kafka 📨
 
 ## Web Servers
 - Nginx 🌐
