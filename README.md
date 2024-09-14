@@ -90,6 +90,26 @@
 ### 🛠️ Build Management Tool
 - Apache Maven
 
+### 📦 SDLC (Software Development Life Cycle)
+- Requirement Analysis 📝
+- Design 🏗️
+- Implementation 💻
+- Testing 🧪
+- Deployment 🚀
+- Maintenance 🔧
+
+### 📈 Agile
+- Iterative Development 🔄
+- Continuous Feedback 📬
+- Customer Collaboration 🤝
+- Adaptive Planning 📅
+
+### 🛠️ Scrum
+- Sprint Planning 📅
+- Daily Standups 🗣️
+- Sprint Review 📋
+- Sprint Retrospective 🔍
+
 <!-- ## 🎓 Certifications
 - AWS Certified Solutions Architect – Associate 🏅
 - Certified Kubernetes Administrator (CKA) 🏅
