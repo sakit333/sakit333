@@ -29,8 +29,14 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
   <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" width="100" style="display: inline-block;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="100" style="display: inline-block;"/>
   <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" width="100" style="display: inline-block;"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" width="100" style="display: inline-block;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" width="100" style="display: inline-block;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:266/1*4kAaqUfUWKZVP1qtspKJjg.png" width="100" style="display: inline-block;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="100" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" width="100" style="display: inline-block;"/>
   <img src="" width="100" style="display: inline-block;"/>
 </p>
+
 ---
 ### 💻 Programming & Scripting Languages
 - Java ☕
