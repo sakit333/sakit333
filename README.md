@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I'm Akshay Kumar S </h1>
 
-## 🌟 About Me
-DevOps Engineer with 2 years of experience in automation and optimization. Worked on many projects and also a Corporate Trainer specializing in DevOps tools and practices.
+## 🌟 About Me 
+<p>
+  <strong>DevOps Engineer</strong> with 2 years of experience specializing in automation and optimization. Proven track record in managing and executing a wide range of projects, enhancing system efficiencies, and streamlining workflows. Adept at leveraging advanced DevOps tools and practices to drive performance improvements. Also serving as a <strong>Corporate Trainer</strong>, delivering expert guidance and training on DevOps methodologies and tools.
+</p>
 ---
 
 ## 🛠️ Skills and Tools
