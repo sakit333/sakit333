@@ -12,13 +12,13 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
   <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="100" style="display: inline-block;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="100" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Docker_Logo.png/200px-Docker_Logo.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="100" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="100" style="display: inline-block;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="100" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8iiGIMaw9J6UVatENir9XF4tybDnbWiAVQ&s" width="100" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png" width="100" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="100" style="display: inline-block;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" width="100" style="display: inline-block;"/>
 </p>
 ---
 ### 💻 Programming & Scripting Languages
