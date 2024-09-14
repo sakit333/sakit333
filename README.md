@@ -11,7 +11,58 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
   <img src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="100" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="100" style="display: inline-block;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="100" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
 </p>
+---
+### 💻 Programming & Scripting Languages
+- Java ☕ ![Java](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Java_Logo.svg/200px-Java_Logo.svg.png)
+- Python 🐍 ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python_logo_and_wordmark.svg/200px-Python_logo_and_wordmark.svg.png)
+- Shell/Bash Scripting 💻 ![Bash](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bash_Logo.svg/200px-Bash_Logo.svg.png)
+
+### 📦 Containerization & Orchestration
+- Docker 🐳 ![Docker](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Docker_Logo.png/200px-Docker_Logo.png)
+- Kubernetes ☸️ ![Kubernetes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo.svg/200px-Kubernetes_logo.svg.png)
+
+### ☁️ Cloud Platforms
+- Amazon Web Services (AWS) ☁️ ![AWS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/200px-Amazon_Web_Services_Logo.svg.png)
+- Microsoft Azure 🔵 ![Microsoft Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Microsoft_Azure_Logo.svg/200px-Microsoft_Azure_Logo.svg.png)
+
+### 🔄 CI/CD Tools
+- Jenkins 🏗️ ![Jenkins](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jenkins_logo.svg/200px-Jenkins_logo.svg.png)
+- GitHub Actions ⚙️ ![GitHub Actions](https://github.githubassets.com/images/modules/logos_page/GitHub_Actions.png)
+- GitLab CI/CD 🚀 ![GitLab CI/CD](https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png)
+
+### 📊 Monitoring & Logging
+- Prometheus 📈 ![Prometheus](https://prometheus.io/assets/prometheus_logo_black.svg)
+- Grafana 📊 ![Grafana](https://grafana.com/static/img/icons/grafana_icon.svg)
+
+### 🗄️ Configuration Management
+- Ansible 📜 ![Ansible](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ansible_logo.svg/200px-Ansible_logo.svg.png)
+
+### 📚 Version Control
+- Git 🐙 ![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/200px-Git-logo.svg.png)
+- GitHub 🐱 ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+### 🛡️ Security & Compliance
+- HashiCorp Vault 🔐 ![HashiCorp Vault](https://www.hashicorp.com/img/brand/logo-vault.svg)
+- SonarQube 🛡️ ![SonarQube](https://www.sonarqube.org/images/sonarqube-logo.png)
+- Trivy 🔍 ![Trivy](https://github.com/aquasecurity/trivy/raw/main/.github/assets/trivy-logo-dark.svg)
+
+### 📦 Artifact Storage
+- Nexus 📦 ![Nexus](https://www.sonatype.com/nexus-repository/images/logo.svg)
+
+### 📡 Messaging
+- Kafka 📨 ![Kafka](https://kafka.apache.org/images/logo.png)
+
+## Web Servers
+- Nginx 🌐 ![Nginx](https://www.nginx.com/wp-content/themes/nginx/assets/logos/nginx-logo-rgb.png)
+- Apache Tomcat 📡 ![Apache Tomcat](https://tomcat.apache.org/images/tomcat-logo.png)
+
+### 🛠️ Infrastructure as Code
+- Terraform 🌍 ![Terraform](https://www.terraform.io/assets/images/brand-guidelines/terraform-logo-black.svg)
+
+### 🛠️ Build Management Tool
+- Apache Maven ![Apache Maven](https://maven.apache.org/images/maven-logo.png)
 
 ---
 ### 💻 Programming & Scripting Languages
