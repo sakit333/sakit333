@@ -19,6 +19,17 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
   <img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png" width="100" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="100" style="display: inline-block;"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" width="100" style="display: inline-block;"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/filetype-pack-for-the-minimalist/100/SH-Bash_Shell_Script-file-program-512.png" width="100" style="display: inline-block;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="100" style="display: inline-block;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwod0EgYh6ixNJuzJAZt413WNM0SX8RrUJsg&s" width="100" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" width="100" style="display: inline-block;"/>
+  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="100" style="display: inline-block;"/>
+  <img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" width="100" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" width="100" style="display: inline-block;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="100" style="display: inline-block;"/>
+  <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" width="100" style="display: inline-block;"/>
+  <img src="" width="100" style="display: inline-block;"/>
 </p>
 ---
 ### 💻 Programming & Scripting Languages
