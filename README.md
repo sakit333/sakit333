@@ -34,7 +34,7 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
   <img src="https://miro.medium.com/v2/resize:fit:266/1*4kAaqUfUWKZVP1qtspKJjg.png" width="65" style="display: inline-block;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="65" style="display: inline-block;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" width="65" style="display: inline-block;"/>
-  <img src="" width="65" style="display: inline-block;"/>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="65" style="display: inline-block;"/>
 </p>
 
 ---
