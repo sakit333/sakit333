@@ -7,36 +7,35 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
 ## 🛠️ Skills and Tools
 ---
 <p>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="100" style="display: inline-block;"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="100" style="display: inline-block;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="100" style="display: inline-block;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="100" style="display: inline-block;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8iiGIMaw9J6UVatENir9XF4tybDnbWiAVQ&s" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="100" style="display: inline-block;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" width="100" style="display: inline-block;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/filetype-pack-for-the-minimalist/100/SH-Bash_Shell_Script-file-program-512.png" width="100" style="display: inline-block;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="100" style="display: inline-block;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="100" style="display: inline-block;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwod0EgYh6ixNJuzJAZt413WNM0SX8RrUJsg&s" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" width="100" style="display: inline-block;"/>
-  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="100" style="display: inline-block;"/>
-  <img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" width="100" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" width="100" style="display: inline-block;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="100" style="display: inline-block;"/>
-  <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" width="100" style="display: inline-block;"/>
-  <img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" width="100" style="display: inline-block;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" width="100" style="display: inline-block;"/>
-  <img src="https://miro.medium.com/v2/resize:fit:266/1*4kAaqUfUWKZVP1qtspKJjg.png" width="100" style="display: inline-block;"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="100" style="display: inline-block;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" width="100" style="display: inline-block;"/>
-  <img src="" width="100" style="display: inline-block;"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="50" style="display: inline-block;"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="50" style="display: inline-block;"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="50" style="display: inline-block;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="50" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8iiGIMaw9J6UVatENir9XF4tybDnbWiAVQ&s" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="50" style="display: inline-block;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" width="50" style="display: inline-block;"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/filetype-pack-for-the-minimalist/100/SH-Bash_Shell_Script-file-program-512.png" width="50" style="display: inline-block;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="50" style="display: inline-block;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwod0EgYh6ixNJuzJAZt413WNM0SX8RrUJsg&s" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" width="50" style="display: inline-block;"/>
+  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="50" style="display: inline-block;"/>
+  <img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" width="50" style="display: inline-block;"/>
+  <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" width="50" style="display: inline-block;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="50" style="display: inline-block;"/>
+  <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" width="50" style="display: inline-block;"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" width="50" style="display: inline-block;"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" width="50" style="display: inline-block;"/>
+  <img src="https://miro.medium.com/v2/resize:fit:266/1*4kAaqUfUWKZVP1qtspKJjg.png" width="50" style="display: inline-block;"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="50" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" width="50" style="display: inline-block;"/>
+  <img src="" width="50" style="display: inline-block;"/>
 </p>
-
 ---
 ### 💻 Programming & Scripting Languages
 - Java ☕
