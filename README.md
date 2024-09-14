@@ -6,7 +6,7 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
 
 ## 🛠️ Skills and Tools
 ---
-![aws]([https://example.com/myimage.jpg](https://w7.pngwing.com/pngs/555/220/png-transparent-aws-hd-logo-thumbnail.png))
+![aws](https://w7.pngwing.com/pngs/555/220/png-transparent-aws-hd-logo-thumbnail.png)
 ---
 ### 💻 Programming & Scripting Languages
 - Java ☕
