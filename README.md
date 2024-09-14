@@ -2,11 +2,10 @@
 
 ## 🌟 About Me 
 <p>
-  <strong>DevOps Engineer</strong> with 2 years of experience specializing in automation and optimization. Proven track record in managing and executing a wide range of projects, enhancing system efficiencies, and streamlining workflows. Adept at leveraging advanced DevOps tools and practices to drive performance improvements. Also serving as a <strong>Corporate Trainer</strong>, delivering expert guidance and training on DevOps methodologies and tools.
+  <strong>DevOps Engineer</strong> with 2+ years of experience specializing in automation and optimization. Proven track record in managing and executing a wide range of projects, enhancing system efficiencies, and streamlining workflows. Adept at leveraging advanced DevOps tools and practices to drive performance improvements. Also serving as a <strong>Corporate Trainer</strong>, delivering expert guidance and training on <strong>DevOps methodologies</strong> and tools.
 </p>
 ---
-
-## 🛠️ Skills and Tools
+## <h1 align="center">🛠️ Skills and Tools</h1>
 ---
 <p>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="65" style="display: inline-block;"/>
