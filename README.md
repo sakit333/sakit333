@@ -7,6 +7,8 @@ DevOps Engineer with 2 years of experience in automation and optimization. Worke
 ## 🛠️ Skills and Tools
 ---
 ![aws](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png)
+![linux](https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png)
+![java](https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png)
 ---
 ### 💻 Programming & Scripting Languages
 - Java ☕
