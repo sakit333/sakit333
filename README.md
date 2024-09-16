@@ -35,6 +35,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" width="65" style="display: inline-block;"/>
   <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="65" style="display: inline-block;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" width="65" style="display: inline-block;"/>
+  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="65" style="display: inline-block;"/>
 </p>
 
 ---
