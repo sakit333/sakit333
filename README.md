@@ -6,21 +6,21 @@
 </p>
 <h1 align="center">🛠️ Skills and Tools</h1>
 <p>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/aws-icon.png" alt="aws" width="65" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSObhWW7gEGNs1r3kbEXIeWuIDC74C6p5RVQ&s" alt="aws" width="65" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="65" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="65" style="display: inline-block;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="65" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" width="65" style="display: inline-block;"/>
+  <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" width="65" style="display: inline-block;"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="65" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="65" style="display: inline-block;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="65" style="display: inline-block;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8iiGIMaw9J6UVatENir9XF4tybDnbWiAVQ&s" width="65" style="display: inline-block;"/>
-  <img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-mc4z634w.png" width="65" style="display: inline-block;"/>
+  <img src="https://logowik.com/content/uploads/images/ansible3554.jpg" width="65" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="65" style="display: inline-block;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" width="65" style="display: inline-block;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/filetype-pack-for-the-minimalist/100/SH-Bash_Shell_Script-file-program-512.png" width="65" style="display: inline-block;"/>
+  <img src="https://thumbs.dreamstime.com/b/sql-database-server-isolated-flat-web-mobile-icon-word-vector-illustration-modern-background-128839153.jpg" width="65" style="display: inline-block;"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/015/824/700/original/sh-file-format-icon-free-vector.jpg" width="65" style="display: inline-block;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="65" style="display: inline-block;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="65" style="display: inline-block;"/>
+  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="65" style="display: inline-block;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwod0EgYh6ixNJuzJAZt413WNM0SX8RrUJsg&s" width="65" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" width="65" style="display: inline-block;"/>
   <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="65" style="display: inline-block;"/>
