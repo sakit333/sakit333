@@ -23,17 +23,17 @@
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="65" style="display: inline-block;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwod0EgYh6ixNJuzJAZt413WNM0SX8RrUJsg&s" width="65" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" width="65" style="display: inline-block;"/>
-  <img src="https://www.svgrepo.com/show/354365/sonarqube.svg" width="65" style="display: inline-block;"/>
+  <img src="https://media.licdn.com/dms/image/D4D12AQHzE1oIZYll5w/article-cover_image-shrink_720_1280/0/1674467662411?e=2147483647&v=beta&t=GS0gLQDx5zjLsfWlJUHbC08_mxhfyom4VJJVTROFoKY" width="65" style="display: inline-block;"/>
   <img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" width="65" style="display: inline-block;"/>
   <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" width="65" style="display: inline-block;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="65" style="display: inline-block;"/>
   <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" width="65" style="display: inline-block;"/>
   <img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" width="65" style="display: inline-block;"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" width="65" style="display: inline-block;"/>
+  <img src="https://w7.pngwing.com/pngs/456/654/png-transparent-json-filetype-icon.png" width="65" style="display: inline-block;"/>
   <img src="https://miro.medium.com/v2/resize:fit:266/1*4kAaqUfUWKZVP1qtspKJjg.png" width="65" style="display: inline-block;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="65" style="display: inline-block;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPmNWAtnroI424NFmJBwNtUs6YIL_eVXHjA&s" width="65" style="display: inline-block;"/>
-  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="65" style="display: inline-block;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS2AdlDW2zV-hyPiVcC7YcDJzMFqhzZFoekw&s" width="65" style="display: inline-block;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" width="65" style="display: inline-block;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="65" style="display: inline-block;"/>
 </p>
