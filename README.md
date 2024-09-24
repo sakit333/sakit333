@@ -55,7 +55,6 @@
 ### 🔄 CI/CD Tools
 - Jenkins 🏗️
 - GitHub Actions ⚙️
-- GitLab CI/CD 🚀
 
 ### 📊 Monitoring & Logging
 - Prometheus 📈
