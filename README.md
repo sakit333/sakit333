@@ -1,4 +1,4 @@
-<h1 align="center"><span style="background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">👋 Hi, I'm Akshay Kumar S</span></h1>
+<h1 align="center">👋 Hi, I'm Akshay Kumar S</h1>
 
 ## 🌟 About Me 
 <p>
@@ -48,8 +48,8 @@
 </p>
 
 ---
-### 💻 Programming & Scripting Languages
-- Java ☕ | Python 🐍 | Shell/Bash Scripting 💻
+### 💻 Programming & Scripting Languages - Java ☕ | Python 🐍 | Shell/Bash Scripting 💻
+
 
 ### 📦 Containerization & Orchestration: 
 - Docker 🐳 | Kubernetes ☸️
