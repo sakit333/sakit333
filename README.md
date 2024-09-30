@@ -132,6 +132,11 @@
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical)
 
+## 👋 Welcome to My DevOps Journey
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub streak" />
+</p>
+
 ## 🏆 Accomplishments
 - Successfully reduced deployment time by 30% through automation.
 - Conducted corporate training sessions for teams on DevOps practices, enhancing their skills and knowledge.
