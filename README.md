@@ -1,9 +1,23 @@
-<h1 align="center">👋 Hi, I'm Akshay Kumar S </h1>
+<h1 align="center">👋 Hi, I'm <span id="name">Akshay Kumar S</span></h1>
+
+<script>
+  const names = ['Akshay Kumar S', 'John Doe', 'Jane Smith', 'Alex Johnson'];
+  let currentIndex = 0;
+
+  function changeName() {
+    const nameElement = document.getElementById('name');
+    nameElement.textContent = names[currentIndex];
+    currentIndex = (currentIndex + 1) % names.length;
+  }
+
+  setInterval(changeName, 3000); // Change name every 3 seconds
+</script>
 
 ## 🌟 About Me 
 <p>
   <strong>DevOps Engineer</strong> with 2+ years of experience specializing in automation and optimization. Proven track record in managing and executing a wide range of projects, enhancing system efficiencies, and streamlining workflows. Adept at leveraging advanced DevOps tools and practices to drive performance improvements. Also serving as a <strong>Corporate Trainer</strong>, delivering expert guidance and training on <strong>DevOps methodologies</strong> and tools.
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20views&color=0e75b6&style=flat" alt="sakit333" /> </p>
 <h1 align="center">🛠️ Skills and Tools</h1>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSObhWW7gEGNs1r3kbEXIeWuIDC74C6p5RVQ&s" alt="aws" width="65" style="display: inline-block;"/>
@@ -82,7 +96,7 @@
 
 ### 📈 Agile: 
 - Iterative Development 🔄 | Continuous Feedback 📬 | Customer Collaboration 🤝 | Adaptive Planning 📅
- 
+
 ### 🛠️ Scrum: 
 - Sprint Planning 📅 | Daily Standups 🗣️ | Sprint Review 📋 | Sprint Retrospective 🔍
 <!-- ## 🎓 Certifications
