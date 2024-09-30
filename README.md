@@ -5,6 +5,16 @@
   <strong>DevOps Engineer</strong> with 2+ years of experience specializing in automation and optimization. Proven track record in managing and executing a wide range of projects, enhancing system efficiencies, and streamlining workflows. Adept at leveraging advanced DevOps tools and practices to drive performance improvements. Also serving as a <strong>Corporate Trainer</strong>, delivering expert guidance and training on <strong>DevOps methodologies</strong> and tools.
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20views&color=0e75b6&style=flat" alt="sakit333" /> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakit333" height="30" width="40" /></a>
+
+<a href="https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakit333" height="30" width="40" /></a>
+
+<a href="mailto:sak528264@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="sakit333" height="30" width="40" /></a>
+ </p>
+
+<a href="https://github.com/sakit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakit333" height="30" width="40" /></a>
 <h1 align="center">🛠️ Skills and Tools</h1>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSObhWW7gEGNs1r3kbEXIeWuIDC74C6p5RVQ&s" alt="aws" width="65" style="display: inline-block;"/>
@@ -134,13 +144,13 @@
 > "Working with Sakit333 has been a pleasure. Their expertise in CI/CD and cloud infrastructure has significantly improved our development workflow." - John Smith, Lead Developer at DevSolutions
 -->
 
-## 🌐 Connect with Me
+<!-- ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 🔗
 - [Twitter](https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08) 🐦
-- [Email](mailto:sak528264@gmail.com.com) 📧
+- [Email](mailto:sak528264@gmail.com.com) 📧 -->
+
 
 ## 📫 How to Reach Me
 Feel free to reach out if you want to collaborate on any project or just want to connect!
 
 ---
-⭐️ From [sakit333](https://github.com/sakit333)
