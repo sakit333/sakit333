@@ -1,17 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span id="name">Akshay Kumar S</span></h1>
-
-<script>
-  const names = ['Akshay Kumar S', 'John Doe', 'Jane Smith', 'Alex Johnson'];
-  let currentIndex = 0;
-
-  function changeName() {
-    const nameElement = document.getElementById('name');
-    nameElement.textContent = names[currentIndex];
-    currentIndex = (currentIndex + 1) % names.length;
-  }
-
-  setInterval(changeName, 3000); // Change name every 3 seconds
-</script>
+<h1 align="center">👋 Hi, I'm Akshay Kumar S</h1>
 
 ## 🌟 About Me 
 <p>
@@ -130,6 +117,11 @@
 ## 👋 Welcome to My DevOps Journey
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub streak" />
+</p>
+
+### 🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's GitHub contributed" />
 </p>
 
 ## 🏆 Accomplishments
