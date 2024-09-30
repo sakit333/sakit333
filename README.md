@@ -42,70 +42,49 @@
 ### 💻 Programming & Scripting Languages
 - Java ☕ | Python 🐍 | Shell/Bash Scripting 💻
 
-### 📦 Containerization & Orchestration
-- Docker 🐳
-- Kubernetes ☸️
+### 📦 Containerization & Orchestration: 
+- Docker 🐳 | Kubernetes ☸️
 
-### ☁️ Cloud Platforms
-- Amazon Web Services (AWS) ☁️
-- Microsoft Azure 🔵
+### ☁️ Cloud Platforms: 
+- Amazon Web Services (AWS) ☁️ | Microsoft Azure 🔵 
 
-### 🔄 CI/CD Tools
-- Jenkins 🏗️
-- GitHub Actions ⚙️
+### 🔄 CI/CD Tools: 
+- Jenkins 🏗️ | GitHub Actions ⚙️ 
 
-### 📊 Monitoring & Logging
-- Prometheus 📈
-- Grafana 📊
+### 📊 Monitoring & Logging: 
+- Prometheus 📈 | Grafana 📊 
 
-### 🗄️ Configuration Management
-- Ansible 📜
+### 🗄️ Configuration Management: 
+- Ansible 📜 
+### 📚 Version Control: 
+- Git 🐙 | GitHub 🐱 
 
-### 📚 Version Control
-- Git 🐙
-- GitHub 🐱
+### 🛡️ Security & Compliance: 
+- HashiCorp Vault 🔐 | SonarQube 🛡️ | Trivy 🔍 
 
-### 🛡️ Security & Compliance
-- HashiCorp Vault 🔐
-- SonarQube 🛡️
-- Trivy 🔍
+### 📦 Artifact Storage: 
+- Nexus 📦 
 
-### 📦 Artifact Storage
-- Nexus 📦
+### 📡 Messaging: 
+- Kafka 📨 
 
-### 📡 Messaging
-- Kafka 📨
+### Web Servers: 
+- Nginx 🌐 | Apache Tomcat 📡 
 
-### Web Servers
-- Nginx 🌐
-- Apache Tomcat 📡
+### 🛠️ Infrastructure as Code: 
+- Terraform 🌍 
 
-### 🛠️ Infrastructure as Code
-- Terraform 🌍
+### 🛠️ Build Management Tool: 
+- Apache Maven 
 
-### 🛠️ Build Management Tool
-- Apache Maven
+### 📦 SDLC: 
+- Requirement Analysis 📝 | Design 🏗️ | Implementation 💻 | Testing 🧪 | Deployment 🚀 | Maintenance 🔧
 
-### 📦 SDLC (Software Development Life Cycle)
-- Requirement Analysis 📝
-- Design 🏗️
-- Implementation 💻
-- Testing 🧪
-- Deployment 🚀
-- Maintenance 🔧
-
-### 📈 Agile
-- Iterative Development 🔄
-- Continuous Feedback 📬
-- Customer Collaboration 🤝
-- Adaptive Planning 📅
-
-### 🛠️ Scrum
-- Sprint Planning 📅
-- Daily Standups 🗣️
-- Sprint Review 📋
-- Sprint Retrospective 🔍
-
+### 📈 Agile: 
+- Iterative Development 🔄 | Continuous Feedback 📬 | Customer Collaboration 🤝 | Adaptive Planning 📅
+ 
+### 🛠️ Scrum: 
+- Sprint Planning 📅 | Daily Standups 🗣️ | Sprint Review 📋 | Sprint Retrospective 🔍
 <!-- ## 🎓 Certifications
 - AWS Certified Solutions Architect – Associate 🏅
 - Certified Kubernetes Administrator (CKA) 🏅
