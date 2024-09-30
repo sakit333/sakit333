@@ -6,7 +6,7 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20views&color=0e75b6&style=flat" alt="sakit333" /> 
 <!-- </p> -->
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <!-- <p align="left"> -->
 <a href="https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakit333" height="30" width="40" /></a>
 <a href="https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakit333" height="30" width="40" /></a>
