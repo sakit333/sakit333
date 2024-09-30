@@ -40,9 +40,7 @@
 
 ---
 ### 💻 Programming & Scripting Languages
-- Java ☕
-- Python 🐍
-- Shell/Bash Scripting 💻
+- Java ☕ | Python 🐍 | Shell/Bash Scripting 💻
 
 ### 📦 Containerization & Orchestration
 - Docker 🐳
