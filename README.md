@@ -11,7 +11,7 @@
 
 <a href="https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakit333" height="30" width="40" /></a>
 
-<a href="mailto:sak528264@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="sakit333" height="30" width="40" /></a>
+<a href="mailto:sak528264@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sakit333" height="30" width="40" /></a>
 
 <a href="https://github.com/sakit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakit333" height="30" width="40" /></a>
 </p>
