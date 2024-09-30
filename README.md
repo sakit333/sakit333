@@ -127,10 +127,14 @@
 - Integrated Grafana with Prometheus for real-time system monitoring and alerting. -->
 
 ## 📈 GitHub Stats
-![Sak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub stats" />
+</p>
 
 ## 📊 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="sakit333's GitHub Languages" />
+</p>
 
 ## 👋 Welcome to My DevOps Journey
 <p align="center">
