@@ -11,7 +11,7 @@
 <a href="mailto:sak528264@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="sakit333" height="30" width="40" /></a>
 <a href="https://github.com/sakit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakit333" height="30" width="40" /></a>
 </p>
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20views&color=0e75b6&style=flat" alt="sakit333"/> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20views&color=0e75b6&style=flat" alt="sakit333"/> </p>
 </p>
 
 <h1 align="center">🛠️ Skills and Tools</h1>
