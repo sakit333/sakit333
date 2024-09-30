@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Akshay Kumar S</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=bold&size=30&pause=1000&color=0969DA¢er=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Akshay+Kumar+S;Welcome+to+my+GitHub!" alt="Typing SVG" />
+</h1>
 
 ## 🌟 About Me 
 <p>
