@@ -51,53 +51,23 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" width="32.5" style="display: inline-block;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="32.5" style="display: inline-block;"/>
 </p>
+
 ---
-### 💻 Programming & Scripting Languages 
-- Java ☕ | Python 🐍 | Shell/Bash Scripting 💻
 
-### 📦 Containerization & Orchestration: 
-- Docker 🐳 | Kubernetes ☸️
+- **Languages**: Java, Python, Shell/Bash Scripting  
+- **Containerization & Orchestration**: Docker, Kubernetes  
+- **Cloud Platforms**: AWS, Microsoft Azure  
+- **CI/CD Tools**: Jenkins, GitHub Actions  
+- **Monitoring & Logging**: Prometheus, Grafana  
+- **Configuration Management**: Ansible  
+- **Version Control**: Git, GitHub  
+- **Security & Compliance**: HashiCorp Vault, SonarQube, Trivy  
+- **Artifact Storage**: Nexus | **Messaging**: Kafka  
+- **Web Servers & IaC**: Nginx, Apache Tomcat, Terraform | **Build Tool**: Maven  
+- **SDLC**: Requirement Analysis, Design, Implementation, Testing, Deployment, Maintenance  
+- **Agile**: Iterative Development, Continuous Feedback, Customer Collaboration, Adaptive Planning  
+- **Scrum**: Sprint Planning, Daily Standups, Sprint Review, Sprint Retrospective
 
-### ☁️ Cloud Platforms: 
-- Amazon Web Services (AWS) ☁️ | Microsoft Azure 🔵 
-
-### 🔄 CI/CD Tools: 
-- Jenkins 🏗️ | GitHub Actions ⚙️ 
-
-### 📊 Monitoring & Logging: 
-- Prometheus 📈 | Grafana 📊 
-
-### 🗄️ Configuration Management: 
-- Ansible 📜 
-### 📚 Version Control: 
-- Git 🐙 | GitHub 🐱 
-
-### 🛡️ Security & Compliance: 
-- HashiCorp Vault 🔐 | SonarQube 🛡️ | Trivy 🔍 
-
-### 📦 Artifact Storage: 
-- Nexus 📦 
-
-### 📡 Messaging: 
-- Kafka 📨 
-
-### Web Servers: 
-- Nginx 🌐 | Apache Tomcat 📡 
-
-### 🛠️ Infrastructure as Code: 
-- Terraform 🌍 
-
-### 🛠️ Build Management Tool: 
-- Apache Maven 
-
-### 📦 SDLC: 
-- Requirement Analysis 📝 | Design 🏗️ | Implementation 💻 | Testing 🧪 | Deployment 🚀 | Maintenance 🔧
-
-### 📈 Agile: 
-- Iterative Development 🔄 | Continuous Feedback 📬 | Customer Collaboration 🤝 | Adaptive Planning 📅
-
-### 🛠️ Scrum: 
-- Sprint Planning 📅 | Daily Standups 🗣️ | Sprint Review 📋 | Sprint Retrospective 🔍
 <!-- ## 🎓 Certifications
 - AWS Certified Solutions Architect – Associate 🏅
 - Certified Kubernetes Administrator (CKA) 🏅
