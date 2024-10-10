@@ -5,8 +5,30 @@
   <strong>DevOps Engineer</strong> with 2+ years of experience specializing in automation and optimization. Proven track record in managing and executing a wide range of projects, enhancing system efficiencies, and streamlining workflows. Adept at leveraging advanced DevOps tools and practices to drive performance improvements. Also serving as a <strong>Corporate Trainer</strong>, delivering expert guidance and training on <strong>DevOps methodologies</strong> and tools.
 </p>
 <p align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20views&color=0e75b6&style=flat" alt="sakit333"/> </p>
+  <p align="center">
+    <img 
+        src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20Views&color=0e75b6&style=flat-square" 
+        alt="sakit333" 
+        style="border-radius: 8px; box-shadow: 0px 0px 15px rgba(0, 119, 182, 0.6); animation: pulse 2s infinite;" 
+    />
 </p>
+
+<style>
+    @keyframes pulse {
+        0% {
+            transform: scale(1);
+            box-shadow: 0px 0px 15px rgba(0, 119, 182, 0.6);
+        }
+        50% {
+            transform: scale(1.05);
+            box-shadow: 0px 0px 25px rgba(0, 119, 182, 0.8);
+        }
+        100% {
+            transform: scale(1);
+            box-shadow: 0px 0px 15px rgba(0, 119, 182, 0.6);
+        }
+    }
+</style>
 <p align="right">
 <a href="https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakit333" height="30" width="40" /></a>
 <a href="https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakit333" height="30" width="40" /></a>
