@@ -53,7 +53,6 @@
 </p>
 
 ---
-
 - **Languages**: Java, Python, Shell/Bash Scripting  
 - **Containerization & Orchestration**: Docker, Kubernetes  
 - **Cloud Platforms**: AWS, Microsoft Azure  
@@ -61,9 +60,10 @@
 - **Monitoring & Logging**: Prometheus, Grafana  
 - **Configuration Management**: Ansible  
 - **Version Control**: Git, GitHub  
-- **Security & Compliance**: HashiCorp Vault, SonarQube, Trivy  
-- **Artifact Storage**: Nexus | **Messaging**: Kafka  
+- **Security & Compliance**: HashiCorp Vault, SonarQube, Trivy, OWASP, Burp Suite  
+- **Artifact Storage**: Nexus | **Messaging**: Kafka, RabbitMQ  
 - **Web Servers & IaC**: Nginx, Apache Tomcat, Terraform | **Build Tool**: Maven  
+- **Caching**: Memcached  
 - **SDLC**: Requirement Analysis, Design, Implementation, Testing, Deployment, Maintenance  
 - **Agile**: Iterative Development, Continuous Feedback, Customer Collaboration, Adaptive Planning  
 - **Scrum**: Sprint Planning, Daily Standups, Sprint Review, Sprint Retrospective
