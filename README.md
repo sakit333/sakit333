@@ -2,8 +2,9 @@
 
 ## 🌟 About Me 
 <p>
-  I am an <strong>Associate Software Engineer</strong> specializing in <strong>DevOps and DevSecOps</strong>, focused on automating workflows and enhancing security. With experience in leveraging advanced DevOps tools and practices, I work to improve system efficiencies and streamline processes. I am passionate about driving performance improvements and delivering high-quality software solutions.
-In addition to my engineering role, I serve as a <strong>Corporate Trainer</strong>, sharing my knowledge of DevOps methodologies and tools to empower teams and promote best practices in software development and operations.
+  I am an <strong>Associate Software Engineer</strong> specializing in <strong>DevOps and DevSecOps</strong>, focused on automating workflows and enhancing security. I have hands-on experience working on various <strong>projects</strong> that leverage advanced DevOps tools and practices to improve system efficiencies and streamline processes. My goal is to drive performance improvements and deliver high-quality software solutions.
+
+In addition to my engineering role, I serve as a <strong>Corporate Trainer</strong>, sharing my knowledge of DevOps methodologies and tools to empower teams and promote best practices in software development and operations..
 </p>
 <p align="center">
   <p align="center">
