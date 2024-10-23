@@ -2,7 +2,8 @@
 
 ## 🌟 About Me 
 <p>
-  <strong>DevOps Engineer</strong> with 2+ years of experience specializing in automation and optimization. Proven track record in managing and executing a wide range of projects, enhancing system efficiencies, and streamlining workflows. Adept at leveraging advanced DevOps tools and practices to drive performance improvements. Also serving as a <strong>Corporate Trainer</strong>, delivering expert guidance and training on <strong>DevOps methodologies</strong> and tools.
+  I am an <strong>Associate Software Engineer</strong> specializing in <strong>DevOps and DevSecOps</strong>, focused on automating workflows and enhancing security. With experience in leveraging advanced DevOps tools and practices, I work to improve system efficiencies and streamline processes. I am passionate about driving performance improvements and delivering high-quality software solutions.
+In addition to my engineering role, I serve as a <strong>Corporate Trainer</strong>, sharing my knowledge of DevOps methodologies and tools to empower teams and promote best practices in software development and operations.
 </p>
 <p align="center">
   <p align="center">
