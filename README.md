@@ -74,7 +74,7 @@ In addition to my engineering role, I serve as a <strong>Corporate Trainer</stro
 - **SDLC**: Requirement Analysis, Design, Implementation, Testing, Deployment, Maintenance  
 - **Agile**: Iterative Development, Continuous Feedback, Customer Collaboration, Adaptive Planning  
 - **Scrum**: Sprint Planning, Daily Standups, Sprint Review, Sprint Retrospective
-
+- **Other**: Argo CD, Helm
 <!-- ## 🎓 Certifications
 - AWS Certified Solutions Architect – Associate 🏅
 - Certified Kubernetes Administrator (CKA) 🏅
