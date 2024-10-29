@@ -53,7 +53,7 @@ In addition to my engineering role, I serve as a <strong>Corporate Trainer</stro
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmJoxiAXVIxedd5WnxL3yepJpACK2lmCSl9w&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8RUoMU1asZD8HLBVCNymBUahSvkSQjV9hQ&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://wearenotch.com/app/uploads/2022/12/ArgoCD-scaled.jpeg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://devopstales.github.io/img/argocd.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://www.csoonline.com/wp-content/uploads/2024/08/560221-0-88236200-1724824922-owasp-100709974-orig.jpg?quality=50&strip=all" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
 </p>
