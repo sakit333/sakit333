@@ -83,41 +83,68 @@ In addition to my engineering role, I serve as a <strong>Corporate Trainer</stro
 - Docker Certified Associate 🏅 -->
 
 ## 🚀 Notable Projects
-### 1. **Automated Deployment Pipeline**
-- Developed an end-to-end CI/CD pipeline using Jenkins, Docker, and Kubernetes, resulting in a 30% reduction in deployment time.
-- Implemented automated testing and monitoring to ensure code quality and system reliability.
 
-### 2. **Infrastructure as Code (IaC) Implementation**
-- Migrated on-premise infrastructure to AWS using Terraform and Ansible, achieving 40% cost savings.
-- Established automated backup and disaster recovery plans to ensure business continuity.
+### 1. **Web Application Development and Deployment**
+- **Languages**: Java, Python  
+- **Overview**: Developed a robust web application leveraging Java Spring for the backend and Python Flask for handling microservices. This application was designed for real-time data processing and user interaction.
+- **Deployment**: The application was deployed on AWS EC2 instances, utilizing Docker for containerization, which ensured consistency across development and production environments. Kubernetes was employed for orchestration, enhancing scalability and providing high availability to handle varying traffic loads effectively.
+- **Technologies Used**: Spring Boot, Flask, Docker, Kubernetes, AWS EC2.
+
+### 2. **CI/CD Pipeline Implementation**
+- **CI/CD Tools**: Jenkins, GitHub Actions  
+- **Overview**: Spearheaded the creation of an automated Continuous Integration and Continuous Deployment (CI/CD) pipeline utilizing Jenkins in conjunction with GitHub Actions. This pipeline facilitated seamless integration of code changes and ensured rapid deployment to production environments.
+- **Testing Integration**: Incorporated comprehensive testing stages using JUnit for Java applications, ensuring code quality and reliability through automated unit tests that detect issues early in the development process.
+- **Technologies Used**: Jenkins, GitHub Actions, JUnit.
+
+### 3. **Infrastructure Automation**
+- **Configuration Management**: Ansible | **Cloud Platforms**: AWS  
+- **Overview**: Executed infrastructure automation strategies using Ansible, significantly streamlining the configuration and deployment of AWS resources. This automation led to a marked reduction in deployment time by approximately 50%, thus increasing team productivity.
+- **Infrastructure as Code**: Leveraged Terraform for managing infrastructure as code (IaC), which enabled the team to create, update, and version infrastructure in a controlled manner. This approach facilitated reproducibility and scalability of environments, making deployments more efficient and reliable.
+- **Technologies Used**: Ansible, Terraform, AWS.
+
+### 4. **Monitoring and Logging System**
+- **Monitoring & Logging**: Prometheus, Grafana  
+- **Overview**: Established a comprehensive monitoring and logging system using Prometheus for performance monitoring and Grafana for data visualization. This setup allowed for real-time monitoring of application metrics, providing critical insights into system performance.
+- **Alerting Mechanisms**: Implemented alerting mechanisms that proactively notified the team of potential issues or anomalies, enabling swift responses to any operational concerns before they affected end-users.
+- **Technologies Used**: Prometheus, Grafana.
+
+### 5. **Security and Compliance Enhancement**
+- **Security & Compliance**: HashiCorp Vault, SonarQube, Trivy, OWASP  
+- **Overview**: Integrated security tools such as SonarQube and Trivy within the CI/CD pipeline to conduct static code analysis and vulnerability scanning, thereby ensuring compliance with industry standards and best practices.
+- **Secrets Management**: Implemented HashiCorp Vault for secrets management, which safeguarded sensitive information and provided secure access controls. This practice significantly reduced the risks associated with exposing sensitive data during cloud deployments.
+- **Technologies Used**: HashiCorp Vault, SonarQube, Trivy, OWASP.
 
 <!-- ### 3. **Centralized Logging and Monitoring System**
 - Set up an ELK stack to centralize logs from multiple microservices, enhancing troubleshooting and performance monitoring.
 - Integrated Grafana with Prometheus for real-time system monitoring and alerting. -->
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" />
 </p>
 
-## 📊 Top Languages
+## 📊 Top Programming Languages
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="sakit333's GitHub Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" />
 </p>
 
 ## 👋 Welcome to My DevOps Journey
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" />
 </p>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's GitHub contributed" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" />
 </p>
 
 ## 🏆 Accomplishments
-- Successfully reduced deployment time by 30% through automation.
-- Conducted corporate training sessions for teams on DevOps practices, enhancing their skills and knowledge.
+- **Optimized Deployment Processes**: Spearheaded the automation of CI/CD pipelines utilizing Jenkins and GitHub Actions, leading to a **30% reduction in deployment time**. This initiative not only improved the efficiency of software releases but also minimized the risk of errors during deployments, enhancing overall system reliability.
+- **Facilitated Knowledge Transfer**: Conducted comprehensive corporate training sessions on advanced DevOps practices for cross-functional teams. These sessions covered key topics such as cloud technologies, CI/CD methodologies, and security best practices, fostering a culture of continuous learning and significantly enhancing team capabilities.
+- **Enhanced Application Security**: Integrated security protocols within CI/CD workflows by implementing tools like SonarQube and Trivy, resulting in a **40% decrease in identified vulnerabilities** before production deployment. This proactive approach has fortified the organization's security posture and ensured compliance with industry standards.
+- **Implemented Infrastructure Automation**: Successfully migrated on-premise infrastructure to AWS using Terraform and Ansible, achieving **40% cost savings** on operational expenditures. This migration not only streamlined resource management but also enabled scalable and reproducible infrastructure setups.
+- **Improved Monitoring and Incident Response**: Established a robust monitoring and logging framework using Prometheus and Grafana, allowing for real-time performance tracking and incident response. This implementation led to a **50% reduction in downtime** during critical application failures by facilitating proactive issue identification and resolution.
+
 
 <!-- ## 💬 Testimonials
 > "Sakit333 is a highly skilled DevOps Engineer who consistently delivers top-notch solutions. Their ability to streamline complex processes is truly impressive." - Jane Doe, CTO at TechCorp
