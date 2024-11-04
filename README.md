@@ -4,9 +4,11 @@
 
 ## 🌟 About Me 
 <p>
-  I am an <strong>Associate Software Engineer</strong> specializing in <strong>DevOps and DevSecOps</strong>, focused on automating workflows and enhancing security. I have hands-on experience working on various <strong>projects</strong> that leverage advanced DevOps tools and practices to improve system efficiencies and streamline processes. My goal is to drive performance improvements and deliver high-quality software solutions.
+  I am a <strong>DevOps & DevSecOps Specialist</strong> with expertise in <strong>Java, Python, and Cloud Infrastructure & Security</strong>, dedicated to automating workflows, enhancing security, and optimizing cloud-based solutions. I have hands-on experience with diverse <strong>projects</strong> that leverage advanced DevOps and security practices to improve system efficiency, scalability, and resilience. My goal is to deliver high-quality, secure software solutions that meet modern standards for performance and reliability.
+</p>
 
-In addition to my engineering role, I serve as a <strong>Corporate Trainer</strong>, sharing my knowledge of DevOps methodologies and tools to empower teams and promote best practices in software development and operations..
+<p>
+  In addition to my technical role, I am a <strong>Corporate Trainer</strong> committed to sharing best practices and methodologies in <strong>DevOps and DevSecOps</strong>, empowering teams to achieve operational excellence and innovation.
 </p>
 <p align="center">
   <p align="center">
