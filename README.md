@@ -1,4 +1,5 @@
-![1729558390847](https://github.com/user-attachments/assets/079ea226-6649-4dac-966e-e8d8cbf83c34)
+<!-- ![1729558390847](https://github.com/user-attachments/assets/079ea226-6649-4dac-966e-e8d8cbf83c34) -->
+![1730737360096](https://github.com/user-attachments/assets/8ad9b9ef-186a-49ad-b257-e5e945ca0634)
 
 <h1 align="center">👋 Hi, I'm Akshay Kumar S</h1>
 
