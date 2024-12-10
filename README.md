@@ -126,6 +126,19 @@
 
 ## 📈 GitHub Statistics
 <p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" width="33%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" width="33%" />
+</p>
+
+### 🔝 Top Contributed Repositories
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" width="100%" />
+</p>
+
+
+<!-- ## 📈 GitHub Statistics
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" />
 </p>
 
@@ -142,7 +155,7 @@
 ### 🔝 Top Contributed Repositories
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" />
-</p>
+</p> -->
 
 ## 🏆 Accomplishments
 - **Optimized Deployment Processes**: Spearheaded the automation of CI/CD pipelines utilizing Jenkins and GitHub Actions, leading to a **30% reduction in deployment time**. This initiative not only improved the efficiency of software releases but also minimized the risk of errors during deployments, enhancing overall system reliability.
