@@ -133,7 +133,7 @@
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" width="100%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" width="50%" />
 </p>
 
 
