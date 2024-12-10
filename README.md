@@ -67,7 +67,7 @@
 </p>
 
 ---
-
+<!--
 - **Languages**: Java, Python, Shell/Bash Scripting  
 - **Containerization & Orchestration**: Docker, Kubernetes  
 - **Cloud Platforms**: AWS, Microsoft Azure  
@@ -82,7 +82,7 @@
 - **SDLC**: Requirement Analysis, Design, Implementation, Testing, Deployment, Maintenance  
 - **Agile**: Iterative Development, Continuous Feedback, Customer Collaboration, Adaptive Planning  
 - **Scrum**: Sprint Planning, Daily Standups, Sprint Review, Sprint Retrospective
-- **Other**: Argo CD, Helm
+- **Other**: Argo CD, Helm -->
 <!-- ## 🎓 Certifications
 - AWS Certified Solutions Architect – Associate 🏅
 - Certified Kubernetes Administrator (CKA) 🏅
@@ -157,12 +157,12 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" />
 </p> -->
 
-## 🏆 Accomplishments
+<!-- ## 🏆 Accomplishments
 - **Optimized Deployment Processes**: Spearheaded the automation of CI/CD pipelines utilizing Jenkins and GitHub Actions, leading to a **30% reduction in deployment time**. This initiative not only improved the efficiency of software releases but also minimized the risk of errors during deployments, enhancing overall system reliability.
 - **Facilitated Knowledge Transfer**: Conducted comprehensive corporate training sessions on advanced DevOps practices for cross-functional teams. These sessions covered key topics such as cloud technologies, CI/CD methodologies, and security best practices, fostering a culture of continuous learning and significantly enhancing team capabilities.
 - **Enhanced Application Security**: Integrated security protocols within CI/CD workflows by implementing tools like SonarQube and Trivy, resulting in a **40% decrease in identified vulnerabilities** before production deployment. This proactive approach has fortified the organization's security posture and ensured compliance with industry standards.
 - **Implemented Infrastructure Automation**: Successfully migrated on-premise infrastructure to AWS using Terraform and Ansible, achieving **40% cost savings** on operational expenditures. This migration not only streamlined resource management but also enabled scalable and reproducible infrastructure setups.
-- **Improved Monitoring and Incident Response**: Established a robust monitoring and logging framework using Prometheus and Grafana, allowing for real-time performance tracking and incident response. This implementation led to a **50% reduction in downtime** during critical application failures by facilitating proactive issue identification and resolution.
+- **Improved Monitoring and Incident Response**: Established a robust monitoring and logging framework using Prometheus and Grafana, allowing for real-time performance tracking and incident response. This implementation led to a **50% reduction in downtime** during critical application failures by facilitating proactive issue identification and resolution. -->
 
 
 <!-- ## 💬 Testimonials
