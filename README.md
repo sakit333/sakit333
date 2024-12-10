@@ -88,7 +88,7 @@
 - Certified Kubernetes Administrator (CKA) 🏅
 - Docker Certified Associate 🏅 -->
 
-## 🚀 Notable Projects
+<!-- ## 🚀 Notable Projects
 
 ### 1. **Web Application Development and Deployment**
 - **Languages**: Java, Python  
@@ -118,7 +118,7 @@
 - **Security & Compliance**: HashiCorp Vault, SonarQube, Trivy, OWASP  
 - **Overview**: Integrated security tools such as SonarQube and Trivy within the CI/CD pipeline to conduct static code analysis and vulnerability scanning, thereby ensuring compliance with industry standards and best practices.
 - **Secrets Management**: Implemented HashiCorp Vault for secrets management, which safeguarded sensitive information and provided secure access controls. This practice significantly reduced the risks associated with exposing sensitive data during cloud deployments.
-- **Technologies Used**: HashiCorp Vault, SonarQube, Trivy, OWASP.
+- **Technologies Used**: HashiCorp Vault, SonarQube, Trivy, OWASP. -->
 
 <!-- ### 3. **Centralized Logging and Monitoring System**
 - Set up an ELK stack to centralize logs from multiple microservices, enhancing troubleshooting and performance monitoring.
