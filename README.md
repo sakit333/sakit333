@@ -8,12 +8,13 @@
 
 ## 🌟 About Me 
 <p>
-  I am a <strong>DevOps & DevSecOps Specialist</strong> with expertise in <strong>Java, Python, and Cloud Infrastructure & Security</strong>, dedicated to automating workflows, enhancing security, and optimizing cloud-based solutions. I have hands-on experience with diverse <strong>projects</strong> that leverage advanced DevOps and security practices to improve system efficiency, scalability, and resilience. My goal is to deliver high-quality, secure software solutions that meet modern standards for performance and reliability.
+  I am a <strong>DevOps & DevSecOps Specialist</strong> with expertise in <strong>Java, Python, and Cloud Infrastructure & Security</strong>, dedicated to automating workflows, enhancing security, and optimizing cloud-based solutions.
 </p>
-
+<!-- <p>  I have hands-on experience with diverse <strong>projects</strong> that leverage advanced DevOps and security practices to improve system efficiency, scalability, and resilience. My goal is to deliver high-quality, secure software solutions that meet modern standards for performance and reliability.
+</p>
 <p>
   In addition to my technical role, I am a <strong>Corporate Trainer</strong> committed to sharing best practices and methodologies in <strong>DevOps and DevSecOps</strong>, empowering teams to achieve operational excellence and innovation.
-</p>
+</p>  -->
 <p align="center">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="sakit333" />
