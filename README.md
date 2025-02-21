@@ -28,7 +28,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sak_shetty" height="30" width="40" />
 </a>
 <a href="https://hub.docker.com/u/sakit333" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/docker-library/docs/c350af05d3fac7b5c3f6327ac82fe4d990d8729c/docker/logo.png" alt="Docker Hub" height="30" width="40" />
+    <img align="center" src="https://assets.techrepublic.com/uploads/2016/10/dockerhero.jpg" alt="Docker Hub" height="30" width="40" />
 </a>
 </p>
 
