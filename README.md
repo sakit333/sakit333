@@ -35,8 +35,8 @@
 <h1 align="center">🛠️ Skills and Tools</h1>
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSObhWW7gEGNs1r3kbEXIeWuIDC74C6p5RVQ&s" alt="aws" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/linux-icon-1719x2048-gi8asnz4.png" alt="linux" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/java-icon-1511x2048-6ikx8301.png" alt="java" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://miro.medium.com/0*Qqqd7UsfFDPL7WXh.jpeg" alt="linux" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://thumbs.dreamstime.com/b/java-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-java-logo-editorial-illustrative-white-208329454.jpg" alt="java" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
