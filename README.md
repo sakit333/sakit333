@@ -44,16 +44,16 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8iiGIMaw9J6UVatENir9XF4tybDnbWiAVQ&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://logowik.com/content/uploads/images/ansible3554.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2f44a3fe54f0baba461524_terraform-logo.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://thumbs.dreamstime.com/b/sql-database-server-isolated-flat-web-mobile-icon-word-vector-illustration-modern-background-128839153.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://static.vecteezy.com/system/resources/previews/015/824/700/original/sh-file-format-icon-free-vector.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwod0EgYh6ixNJuzJAZt413WNM0SX8RrUJsg&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/prometheus-icon-511x512-1vmxbcxr.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQESrePLSaj5ZA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721200575100?e=2147483647&v=beta&t=XiE2V1vO8s_a4ph237UOrkb2lN7-bV7de6DvSbZelW0" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://media.licdn.com/dms/image/D4D12AQHzE1oIZYll5w/article-cover_image-shrink_720_1280/0/1674467662411?e=2147483647&v=beta&t=GS0gLQDx5zjLsfWlJUHbC08_mxhfyom4VJJVTROFoKY" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://e7.pngegg.com/pngimages/630/547/png-clipart-kafka-vertical-logo-tech-companies-thumbnail.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/file-type-nginx-icon-1793x2048-yt5u3fm7.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://miro.medium.com/0*mjG1YdoT7xPcnznN.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/2560px-Apache_Tomcat_logo.svg.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2af61146c55b6e172fa5b3_NexusRepo_Icon.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://static.vecteezy.com/system/resources/previews/013/313/458/non_2x/html-icon-3d-rendering-illustration-vector.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
