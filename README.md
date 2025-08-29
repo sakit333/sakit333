@@ -40,7 +40,7 @@
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_logo_icon_146556.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
-  <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://i0.wp.com/codeblog.dotsandbrackets.com/wp-content/uploads/2017/07/kubernetes.jpg?fit=821%2C714&ssl=1" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb8iiGIMaw9J6UVatENir9XF4tybDnbWiAVQ&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://logowik.com/content/uploads/images/ansible3554.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
