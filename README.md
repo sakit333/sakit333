@@ -3,7 +3,6 @@
 <!--![1731043385245](https://github.com/user-attachments/assets/613d54be-3740-4943-b6b6-2beed92f1d8b) -->
 <!-- ![image](https://github.com/user-attachments/assets/577a7184-4187-40eb-84e6-1f3e835ce0cb) -->
 
-
 <h1 align="center">👋 Hi, I'm Akshay Kumar S</h1>
 
 ## 🌟 About Me 
@@ -131,8 +130,8 @@
 ## 📈 GitHub Statistics
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" width="33%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" width="33%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" width="33%" />
 </p>
 
 ### 🔝 Top Contributed Repositories
