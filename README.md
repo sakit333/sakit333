@@ -129,9 +129,9 @@
 
 ## 📈 GitHub Statistics
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" width="33%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" width="30%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" width="43%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" width="23%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" width="28%" />
 </p>
 
 ### 🔝 Top Contributed Repositories
