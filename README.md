@@ -129,6 +129,14 @@
 
 ## 📈 GitHub Statistics
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakit333&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sakit333?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sakit333?label=Stars&style=flat-square&color=yellow" alt="Stars" />
+</p>
+
+<!-- Stats Cards -->
 <table align="center">
   <tr>
     <td>
@@ -137,7 +145,9 @@
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" height="200" />
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" height="200" />
     </td>
   </tr>
@@ -145,8 +155,14 @@
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" width="40%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=sakit333&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="sakit333's Top Contributed Repositories" height="200" />
 </p>
+
+<!-- Snake Contribution Graph -->
+<p align="center">
+  <img src="https://github.com/sakit333/sakit333/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 
 
 <!-- ## 📈 GitHub Statistics
