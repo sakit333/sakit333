@@ -9,9 +9,9 @@
 <p>
   I am a <strong>DevOps & DevSecOps Specialist</strong> with expertise in <strong>Java, Python, and Cloud Infrastructure & Security</strong>, dedicated to automating workflows, enhancing security, and optimizing cloud-based solutions.
 </p>
-<!-- <p>  I have hands-on experience with diverse <strong>projects</strong> that leverage advanced DevOps and security practices to improve system efficiency, scalability, and resilience. My goal is to deliver high-quality, secure software solutions that meet modern standards for performance and reliability.
+<p>  I have hands-on experience with diverse <strong>projects</strong> that leverage advanced DevOps and security practices to improve system efficiency, scalability, and resilience. My goal is to deliver high-quality, secure software solutions that meet modern standards for performance and reliability.
 </p>
-<p>
+<!--  <p>
   In addition to my technical role, I am a <strong>Corporate Trainer</strong> committed to sharing best practices and methodologies in <strong>DevOps and DevSecOps</strong>, empowering teams to achieve operational excellence and innovation.
 </p>  
 <p align="center">
@@ -19,13 +19,13 @@
     <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="sakit333" />
 </p> -->
 <p align="right">
+<a href="https://www.instagram.com/sak_shetty" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sak_shetty" height="30" width="40" />
+</a>
 <a href="https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakit333" height="30" width="30" /></a>
 <a href="https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/50278?s=280&v=4" alt="sakit333" height="30" width="30" /></a>
 <a href="mailto:sak528264@gmail.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Logo-2013-2020.png" alt="sakit333" height="30" width="40" /></a>
 <!-- <a href="https://github.com/sakit333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sakit333" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/sak_shetty" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sak_shetty" height="30" width="40" />
-</a>
 <a href="https://hub.docker.com/u/sakit333" target="_blank">
     <img align="center" src="https://assets.techrepublic.com/uploads/2016/10/dockerhero.jpg" alt="Docker Hub" height="30" width="40" />
 </a>
