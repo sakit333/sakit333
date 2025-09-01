@@ -3,7 +3,9 @@
 <!--![1731043385245](https://github.com/user-attachments/assets/613d54be-3740-4943-b6b6-2beed92f1d8b) -->
 <!-- ![image](https://github.com/user-attachments/assets/577a7184-4187-40eb-84e6-1f3e835ce0cb) -->
 
-<h1 align="center">👋 Hi, I'm Akshay Kumar S</h1>
+<!-- <h1 align="center">👋 Hi, I'm Akshay Kumar S</h1> -->
+<h1 align="center">👋 Hi, I'm <span style="color:#FF4C60;">Akshay Kumar S</span></h1>
+<h3 align="center">🚀 Software Engineer | 💡 Problem Solver | 🌍 Tech Enthusiast</h3>
 
 ## 🌟 About Me 
 <p>
