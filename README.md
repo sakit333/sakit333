@@ -13,11 +13,11 @@
 </p>
 <p>
   In addition to my technical role, I am a <strong>Corporate Trainer</strong> committed to sharing best practices and methodologies in <strong>DevOps and DevSecOps</strong>, empowering teams to achieve operational excellence and innovation.
-</p>  -->
+</p>  
 <p align="center">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sakit333&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="sakit333" />
-</p>
+</p> -->
 <p align="right">
 <a href="https://www.linkedin.com/in/akshay-kumar-s-11ba69278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakit333" height="30" width="30" /></a>
 <a href="https://x.com/Sakdevang?t=VkhoxWQGUpPq3PtcA5z_FA&s=08" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/50278?s=280&v=4" alt="sakit333" height="30" width="30" /></a>
@@ -159,9 +159,9 @@
 </p>
 
 <!-- Snake Contribution Graph -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/sakit333/sakit333/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</p> -->
 
 
 
