@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#FF4C60;">Akshay Kumar S</span></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=500&lines=🚀+Software+Engineer;🌍+Tech+Enthusiast;💡+Problem+Solver;📚+Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🔧+DevOps+Specialist;🛡️+DevSecOps+Engineer;☕+Java+Developer;🐍+Python+Developer;☁️+Cloud+Infrastructure+%26+Security;💡+Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Me 
