@@ -136,9 +136,9 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakit333&style=flat-square&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sakit333?label=Followers&style=flat-square&color=brightgreen" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sakit333?label=Stars&style=flat-square&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sakit333&style=flat-square&color=blue" alt="Profile Views" height="30"/>
+  <img src="https://img.shields.io/github/followers/sakit333?label=Followers&style=flat-square&color=brightgreen" alt="Followers" height="30"/>
+  <img src="https://img.shields.io/github/stars/sakit333?label=Stars&style=flat-square&color=yellow" alt="Stars" height="30"/>
 </p>
 
 <!-- Stats Cards -->
