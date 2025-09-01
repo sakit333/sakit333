@@ -128,11 +128,20 @@
 - Integrated Grafana with Prometheus for real-time system monitoring and alerting. -->
 
 ## 📈 GitHub Statistics
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" width="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" width="300" />
-</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=sakit333&show_icons=true&theme=radical" alt="sakit333's GitHub Stats" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakit333&theme=radical" alt="sakit333's GitHub Streak" height="200" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakit333&layout=compact&theme=radical" alt="Top Languages Used by sakit333" height="200" />
+    </td>
+  </tr>
+</table>
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
