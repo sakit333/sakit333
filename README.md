@@ -13,12 +13,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=750&lines=🔧+DevOps+%26+🛡️+DevSecOps+Engineer;🤖+AI+%26+LLM+Infrastructure;🧠+Ollama+%7C+HuggingFace+%7C+vLLM;☕+Java+%26+🐍+Python;☁️+Cloud+%7C+CI%2FCD+%7C+Automation;💡+Continuous+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
-## 🌟 About Me 
+## 🌟 About Me
 <p>
+  I am a <strong>DevOps & DevSecOps Engineer</strong> passionate about automation, security, and scalable infrastructure. My expertise includes <strong>Java, Python, CI/CD pipelines, and Cloud Infrastructure</strong>, along with building and managing <strong>AI/LLM infrastructure</strong> using tools like <strong>Ollama, Hugging Face, and vLLM</strong>.
+</p>
+
+<p>
+  I work on <strong>DevOps, DevSecOps, and AI-powered platforms</strong> that focus on automation, cloud-native architecture, and high system reliability. My mission is to create <strong>secure, scalable, and efficient systems</strong> that support modern applications and large-scale AI workloads.
+</p>
+<!-- <p>
   I am a <strong>DevOps & DevSecOps Specialist</strong> with expertise in <strong>Java, Python, and Cloud Infrastructure & Security</strong>, dedicated to automating workflows, enhancing security, and optimizing cloud-based solutions.
 </p>
 <p>  I have hands-on experience with diverse <strong>projects</strong> that leverage advanced DevOps and security practices to improve system efficiency, scalability, and resilience. My goal is to deliver high-quality, secure software solutions that meet modern standards for performance and reliability.
-</p>
+</p> -->
 <!--  <p>
   In addition to my technical role, I am a <strong>Corporate Trainer</strong> committed to sharing best practices and methodologies in <strong>DevOps and DevSecOps</strong>, empowering teams to achieve operational excellence and innovation.
 </p>  
@@ -74,6 +81,13 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl8RUoMU1asZD8HLBVCNymBUahSvkSQjV9hQ&s" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://devopstales.github.io/img/argocd.jpg" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
   <img src="https://www.csoonline.com/wp-content/uploads/2024/08/560221-0-88236200-1724824922-owasp-100709974-orig.jpg?quality=50&strip=all" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
+  <img src="https://www.csoonline.com/wp-content/uploads/2024/08/560221-0-88236200-1724824922-owasp-100709974-orig.jpg?quality=50&strip=all" width="35" style="display:inline-block;margin:5px;border-radius:10px;"/>
+<img src="https://ollama.com/public/ollama.png" width="35" style="display:inline-block;margin:5px;border-radius:10px;"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" style="display:inline-block;margin:5px;border-radius:10px;"/>
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="35" style="display:inline-block;margin:5px;border-radius:10px;"/>
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/llama.png" width="35" style="display:inline-block;margin:5px;border-radius:10px;"/>
+<img src="https://avatars.githubusercontent.com/u/148330874?s=200&v=4" width="35" style="display:inline-block;margin:5px;border-radius:10px;"/>
+<img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="35" style="display:inline-block;margin:5px;border-radius:10px;"/>
   <img src="" width="35" style="display: inline-block; margin: 5px; border-radius: 10px;"/>
 </p>
 
