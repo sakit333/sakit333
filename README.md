@@ -10,8 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🔧+DevOps+%26+🛡️+DevSecOps+Specialist;☕+Java+%26+🐍+Python;☁️+Cloud+Infrastructure+%26+Security;💡+Continuous+Learner" alt="Typing SVG" />
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=750&lines=🔧+DevOps+%26+🛡️+DevSecOps+Engineer;🤖+AI+%26+LLM+Infrastructure;🧠+Ollama+%7C+HuggingFace+%7C+vLLM;☕+Java+%26+🐍+Python;📊+Loki+%7C+Grafana+%7C+Tempo+%7C+Prometheus
-;☁️+Cloud+%7C+CI%2FCD+%7C+Automation;💡+Continuous+Learner+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=750&lines=🔧+DevOps+%26+🛡️+DevSecOps+Engineer;🤖+AI+%26+LLM+Infrastructure;🧠+Ollama+%7C+HuggingFace+%7C+vLLM;☕+Java+%26+🐍+Python;📊+Loki+%7C+Grafana+%7C+Tempo+%7C+Prometheus;☁️+Cloud+%7C+CI%2FCD+%7C+Automation;💡+Continuous+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Me
