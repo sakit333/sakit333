@@ -10,16 +10,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=600&lines=🔧+DevOps+%26+🛡️+DevSecOps+Specialist;☕+Java+%26+🐍+Python;☁️+Cloud+Infrastructure+%26+Security;💡+Continuous+Learner" alt="Typing SVG" />
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=750&lines=🔧+DevOps+%26+🛡️+DevSecOps+Engineer;🤖+AI+%26+LLM+Infrastructure;🧠+Ollama+%7C+HuggingFace+%7C+vLLM;☕+Java+%26+🐍+Python;☁️+Cloud+%7C+CI%2FCD+%7C+Automation;💡+Continuous+Learner+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF4C60&center=true&vCenter=true&width=750&lines=🔧+DevOps+%26+🛡️+DevSecOps+Engineer;🤖+AI+%26+LLM+Infrastructure;🧠+Ollama+%7C+HuggingFace+%7C+vLLM;☕+Java+%26+🐍+Python;📊+Loki+%7C+Grafana+%7C+Tempo+%7C+Prometheus
+;☁️+Cloud+%7C+CI%2FCD+%7C+Automation;💡+Continuous+Learner+%26+Builder" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Me
 <p>
-  I am a <strong>DevOps & DevSecOps Engineer</strong> passionate about automation, security, and scalable infrastructure. My expertise includes <strong>Java, Python, CI/CD pipelines, and Cloud Infrastructure</strong>, along with building and managing <strong>AI/LLM infrastructure</strong> using tools like <strong>Ollama, Hugging Face, and vLLM</strong>.
+  I am a <strong>DevOps & DevSecOps Engineer</strong> passionate about automation, security, and scalable infrastructure. My expertise includes <strong>Java, Python, FastAPI, CI/CD pipelines, Cloud Infrastructure, and Observability Engineering</strong>, along with building and managing <strong>AI/LLM infrastructure</strong> using tools like <strong>Ollama, Hugging Face, and vLLM</strong>.
 </p>
 
 <p>
-  I work on <strong>DevOps, DevSecOps, and AI-powered platforms</strong> that focus on automation, cloud-native architecture, and high system reliability. My mission is to create <strong>secure, scalable, and efficient systems</strong> that support modern applications and large-scale AI workloads.
+  I work on <strong>DevOps, DevSecOps, AI-powered platforms, and cloud-native observability systems</strong> that focus on automation, security, monitoring, and high system reliability. I also implement <strong>LGTM Stack (Loki, Grafana, Tempo, and Mimir)</strong> with <strong>OpenTelemetry, FastAPI instrumentation, distributed tracing, centralized logging, and metrics monitoring</strong> for modern microservices and AI workloads.
+</p>
+
+<p>
+  My mission is to create <strong>secure, scalable, observable, and efficient systems</strong> that support modern applications, distributed architectures, and large-scale AI/LLM deployments with end-to-end monitoring and performance visibility.
 </p>
 <!-- <p>
   I am a <strong>DevOps & DevSecOps Specialist</strong> with expertise in <strong>Java, Python, and Cloud Infrastructure & Security</strong>, dedicated to automating workflows, enhancing security, and optimizing cloud-based solutions.
